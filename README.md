@@ -1,4 +1,4 @@
-<div align="left">
+<div align="left" width="full">
   <img height="150" src="/github-header-image.png"  />
 </div>
 
