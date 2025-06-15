@@ -1,4 +1,8 @@
-![Header]([./github-header.image(6).png](https://github.com/Nasor2/Nasor2/blob/main/github-header-image%20(6).png?raw=true))
+<header>
+  <img height="200" src="https://github.com/Nasor2/Nasor2/blob/main/github-header-image (6).png?raw=true"  />
+</header>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasor2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
