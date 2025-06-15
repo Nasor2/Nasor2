@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Samuel and I'm a System Engieneer, from Colombia</h2>
+<div align="center">
+  <img align="right" height="150" src="/github-header-image.png"  />
+</div>
 
 ###
 
