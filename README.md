@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="200" src="https://github.com/Nasor2/Nasor2/blob/main/github-header-image%20(5).png?raw=true"  />
-</div>
-
+![Header](./github-header-image (6).png)
 ###
 
 <div align="center">
