@@ -1,5 +1,5 @@
 <header>
-  <img height="200" src="https://github.com/Nasor2/Nasor2/blob/main/github-header-image (6).png?raw=true"  />
+  <img src="https://github.com/Nasor2/Nasor2/blob/main/github-header-image (6).png?raw=true"  />
 </header>
 
 ###
