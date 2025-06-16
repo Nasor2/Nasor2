@@ -1,9 +1,3 @@
-<header>
-  <img src="https://github.com/Nasor2/Nasor2/blob/main/github-header-image (5).png?raw=true"  />
-</header>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasor2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="170" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Nasor2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="170" alt="stats graph"  />
