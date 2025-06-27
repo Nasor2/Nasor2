@@ -14,7 +14,7 @@
   </a>
 </div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30px"></picture> About Me
 
 I'm Samuel, a Systems Engineer with a strong focus on technological innovation. I work on projects that integrate **Full-stack web development**, **Data science**, **Artificial intelligence**, and **Modern scalable architectures**.
 
