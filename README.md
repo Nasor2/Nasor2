@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Samuel Peña</h1>
 
-
+<!----------------------->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasor2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="170" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Nasor2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="170" alt="stats graph"  />
@@ -8,7 +8,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasor2&theme=gruvbox&area=true&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<!----------------------->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="57" alt="javascript logo"  />
@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="57" alt="r logo"  />
 </div>
 
-###
+<!----------------------->
 
 <div align="left">
   <a href="https://www.youtube.com/@samuelpro2345" target="_blank">
@@ -78,10 +78,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/DtD4LZbctTIAAAAe/tamm-cat.png"  />
-
-###
+<!----------------------->
