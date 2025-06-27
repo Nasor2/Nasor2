@@ -8,6 +8,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasor2&theme=gruvbox&area=true&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+I'm Samuel Pro, a Systems Engineer with a strong focus on technological innovation. I work on projects that integrate **full-stack web development**, **data science**, **generative artificial intelligence**, and **modern scalable architectures**.
+
+I'm passionate about turning complex ideas into accessible, impactful, and well-designed solutions by combining engineering with creativity. I'm involved in AI research groups, have led initiatives focused on education, health, and intelligent automation, and I'm always seeking new challenges to grow both personally and professionally.
+
+> 💡 My mantra: “Learn. Build. Make an Impact.”
+
+---
 <!----------------------->
 
 <div align="left">
