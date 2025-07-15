@@ -29,7 +29,7 @@ I'm passionate about turning complex ideas into accessible, impactful, and well-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,nodejs,nextjs,express,fastapi,py,tensorflow,ruby,pytorch,opencv,flask,fastapi,django,r,vite,react,angular,css,html,js,ts,express,wordpress,tailwind,bootstrap,figma,postgres,mysql,firebase,gcp,git,github,postman,vscode,kali,linux,docker,arduino&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,tensorflow,pytorch,opencv,react,angular,css,html,js,ts,tailwind,bootstrap,postgres,mysql,firebase,gcp,git,github,postman,vscode,linux,docker&theme=light" />
   </a>
 </p>
 <br>
