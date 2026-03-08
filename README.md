@@ -16,13 +16,13 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30px"></picture> About Me
 
-Systems Engineering student interested in building reliable and scalable software systems.
+Systems Engineering student passionate about building useful and scalable technology.
 
-I work mainly on backend development with Java and Spring Boot, building REST APIs, backend services, and database-driven applications. I also enjoy exploring areas such as web development, data analysis, and intelligent systems when they help create impactful solutions.
+My main focus is backend development using Java and Spring Boot, where I build REST APIs, backend services, and data-driven applications. I also explore web development, data analysis, and intelligent systems as part of broader software solutions.
 
-My work focuses on clean architecture, practical software engineering, and continuous learning.
+I enjoy solving problems through clean architecture, practical engineering, and continuous learning.
 
-Tech I frequently use:
+Tech stack:
 Java • Spring Boot • SQL • Redis • Docker • Git • React
 
 > 💡 My mantra: “Learn. Build. Make an Impact.”
