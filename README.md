@@ -29,7 +29,7 @@ I'm passionate about turning complex ideas into accessible, impactful, and well-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,react,js,tailwind,mysql,redis,firebase,gcp,git,github,postman,vscode,linux,docker&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=git,aws,java,spring,py,cpp,qt,react,js,tailwind,mysql,postgres,sqlite,redis,firebase,gcp,postman,vscode,linux,docker&theme=light" />
   </a>
 </p>
 <br>
