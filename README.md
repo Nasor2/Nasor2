@@ -16,9 +16,14 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30px"></picture> About Me
 
-I'm Samuel, a Systems Engineer with a strong focus on technological innovation. I work on projects that integrate **Full-stack web development**, **Data science**, **Artificial intelligence**, and **Modern scalable architectures**.
+Systems Engineering student interested in building reliable and scalable software systems.
 
-I'm passionate about turning complex ideas into accessible, impactful, and well-designed solutions by combining engineering with creativity. I'm involved in AI research groups, have led initiatives focused on education, health, and intelligent automation, and I'm always seeking new challenges to grow both personally and professionally.
+I work mainly on backend development with Java and Spring Boot, building REST APIs, backend services, and database-driven applications. I also enjoy exploring areas such as web development, data analysis, and intelligent systems when they help create impactful solutions.
+
+My work focuses on clean architecture, practical software engineering, and continuous learning.
+
+Tech I frequently use:
+Java • Spring Boot • SQL • Redis • Docker • Git • React
 
 > 💡 My mantra: “Learn. Build. Make an Impact.”
 
