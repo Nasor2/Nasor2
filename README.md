@@ -29,22 +29,7 @@ I'm passionate about turning complex ideas into accessible, impactful, and well-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,tensorflow,pytorch,opencv,react,angular,css,html,js,ts,tailwind,bootstrap,postgres,mysql,redis,firebase,gcp,git,github,postman,vscode,linux,docker&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,react,js,tailwind,mysql,redis,firebase,gcp,git,github,postman,vscode,linux,docker&theme=light" />
   </a>
 </p>
 <br>
-
-<!----------------------->
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasor2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="170" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasor2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasor2&theme=gruvbox&area=true&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-## Github Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Nasor2&theme=onedark&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-</div>
-
-
