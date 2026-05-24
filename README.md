@@ -16,14 +16,17 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="30px"></picture> About Me
 
-Systems Engineering student passionate about building useful and scalable technology.
+Systems Engineering student focused on backend development, artificial intelligence, and intelligent systems.
 
-My main focus is backend development using Java and Spring Boot, where I build REST APIs, backend services, and data-driven applications. I also explore web development, data analysis, and intelligent systems as part of broader software solutions.
+I build scalable software solutions that transform data into useful tools for decision-making, automation, and user-centered experiences. My experience ranges from analytical desktop applications with C++/Qt to AI-powered platforms, REST APIs, and cloud-based systems.
 
-I enjoy solving problems through clean architecture, practical engineering, and continuous learning.
+Currently interested in:
+- Backend Engineering with Java & Spring
+- Applied AI and Machine Learning
+- Computer Vision and NLP
+- Scalable and data-driven architectures
 
-Tech stack:
-Java • Spring Boot • SQL • Redis • Docker • Git • React
+I enjoy creating technology that solves real-world problems through clean engineering, performance optimization, and continuous learning.
 
 > 💡 My mantra: “Learn. Build. Make an Impact.”
 
@@ -34,7 +37,7 @@ Java • Spring Boot • SQL • Redis • Docker • Git • React
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,aws,java,spring,py,cpp,qt,react,js,tailwind,mysql,postgres,sqlite,redis,firebase,gcp,postman,vscode,linux,docker&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=git,aws,java,spring,py,cpp,qt,react,js,tailwind,mysql,postgres,sqlite,redis,firebase,gcp,postman,vscode,linux,docker,aws&theme=light" />
   </a>
 </p>
 <br>
