@@ -1,0 +1,82 @@
+<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.4" />
+      <stop offset="50%" style="stop-color:#f59e0b;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="glowSmall" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="300" fill="#0c0a09"/>
+
+  <!-- Central glow -->
+  <circle cx="400" cy="150" r="140" fill="url(#glow)"/>
+
+  <g transform="translate(400, 150)">
+    <!-- Outer wheels (90° apart) - Horizontal -->
+    <circle cx="0" cy="0" r="130" fill="none" stroke="#f59e0b" stroke-width="1.5" opacity="0.25"/>
+    <circle cx="0" cy="0" r="125" fill="none" stroke="#f59e0b" stroke-width="0.5" opacity="0.15"/>
+
+    <!-- Outer wheels - Vertical (90° rotation = ellipse) -->
+    <ellipse cx="0" cy="0" rx="130" ry="45" fill="none" stroke="#f59e0b" stroke-width="1.5" opacity="0.25" transform="rotate(90)"/>
+
+    <!-- Mid wheels - Horizontal -->
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.35"/>
+    <circle cx="0" cy="0" r="95" fill="none" stroke="#fbbf24" stroke-width="0.5" opacity="0.2"/>
+
+    <!-- Mid wheels - Vertical -->
+    <ellipse cx="0" cy="0" rx="100" ry="35" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.35" transform="rotate(90)"/>
+
+    <!-- Inner wheels - Horizontal -->
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#fbbf24" stroke-width="2.5" opacity="0.5"/>
+
+    <!-- Inner wheels - Vertical -->
+    <ellipse cx="0" cy="0" rx="70" ry="25" fill="none" stroke="#fbbf24" stroke-width="2.5" opacity="0.5" transform="rotate(90)"/>
+
+    <!-- Spokes / Cross lines -->
+    <line x1="-130" y1="0" x2="130" y2="0" stroke="#f59e0b" stroke-width="0.5" opacity="0.2"/>
+    <line x1="0" y1="-130" x2="0" y2="130" stroke="#f59e0b" stroke-width="0.5" opacity="0.2"/>
+    <line x1="-92" y1="-92" x2="92" y2="92" stroke="#f59e0b" stroke-width="0.5" opacity="0.15"/>
+    <line x1="92" y1="-92" x2="-92" y2="92" stroke="#f59e0b" stroke-width="0.5" opacity="0.15"/>
+
+    <!-- Eyes on outer wheel -->
+    <circle cx="130" cy="0" r="4" fill="#fafaf9" opacity="0.9"/>
+    <circle cx="-130" cy="0" r="4" fill="#fafaf9" opacity="0.9"/>
+    <circle cx="0" cy="130" r="4" fill="#fafaf9" opacity="0.9"/>
+    <circle cx="0" cy="-130" r="4" fill="#fafaf9" opacity="0.9"/>
+
+    <!-- Eyes on mid wheel -->
+    <circle cx="100" cy="0" r="3" fill="#fafaf9" opacity="0.7"/>
+    <circle cx="-100" cy="0" r="3" fill="#fafaf9" opacity="0.7"/>
+    <circle cx="0" cy="100" r="3" fill="#fafaf9" opacity="0.7"/>
+    <circle cx="0" cy="-100" r="3" fill="#fafaf9" opacity="0.7"/>
+
+    <!-- Eyes on diagonal positions -->
+    <circle cx="92" cy="92" r="3" fill="#fafaf9" opacity="0.5"/>
+    <circle cx="-92" cy="92" r="3" fill="#fafaf9" opacity="0.5"/>
+    <circle cx="92" cy="-92" r="3" fill="#fafaf9" opacity="0.5"/>
+    <circle cx="-92" cy="-92" r="3" fill="#fafaf9" opacity="0.5"/>
+
+    <!-- Eyes on inner wheel -->
+    <circle cx="70" cy="0" r="2.5" fill="#fafaf9" opacity="0.6"/>
+    <circle cx="-70" cy="0" r="2.5" fill="#fafaf9" opacity="0.6"/>
+    <circle cx="0" cy="70" r="2.5" fill="#fafaf9" opacity="0.6"/>
+    <circle cx="0" cy="-70" r="2.5" fill="#fafaf9" opacity="0.6"/>
+
+    <!-- Central glow -->
+    <circle cx="0" cy="0" r="25" fill="url(#glowSmall)"/>
+    <circle cx="0" cy="0" r="8" fill="#fbbf24" opacity="0.6"/>
+    <circle cx="0" cy="0" r="3" fill="#fafaf9" opacity="0.9"/>
+
+    <!-- Name -->
+    <text x="0" y="-15" text-anchor="middle" fill="#fafaf9" font-family="DM Sans, system-ui, sans-serif" font-size="40" font-weight="bold">Samuel Peña</text>
+
+    <!-- Tagline -->
+    <text x="0" y="15" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, system-ui, sans-serif" font-size="16" letter-spacing="2">SYSTEMS ENGINEER · AI · MICROSERVICES</text>
+  </g>
+</svg>
