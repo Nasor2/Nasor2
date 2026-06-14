@@ -77,6 +77,6 @@
     <text x="0" y="-15" text-anchor="middle" fill="#fafaf9" font-family="DM Sans, system-ui, sans-serif" font-size="40" font-weight="bold">Samuel Peña</text>
 
     <!-- Tagline -->
-    <text x="0" y="15" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, system-ui, sans-serif" font-size="16" letter-spacing="2">SYSTEMS ENGINEER · AI · MICROSERVICES</text>
+    <text x="0" y="15" text-anchor="middle" fill="#f59e0b" font-family="DM Sans, system-ui, sans-serif" font-size="16" letter-spacing="2">SYSTEMS ENGINEER · AI</text>
   </g>
 </svg>
