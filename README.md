@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Systems+Engineer+focused+on+AI+%26+Scalable+Solutions;Building+Intelligent+Architectures+with+Spring;Docker+%7C+Kubernetes+%7C+Cloud+Infrastructure;Learn.+Build.+Make+an+Impact.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Systems+Engineer+focused+on+AI+%26+Scalable+Solutions;Building+Intelligent+Architectures;Learn.+Build.+Make+an+Impact.)
 
 </div>
 
