@@ -3,13 +3,6 @@
 <!-- Header: Celestial Thrones (Ophanim) -->
 ![Celestial Thrones](assets/celestial-header.svg)
 
-</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1000&pause=500&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Systems+Engineer+focused+on+AI+%26+Scalable+Solutions;Building+Intelligent+Architectures;Learn.+Build.+Make+an+Impact.)
-
-</div>
 
 <br>
 
